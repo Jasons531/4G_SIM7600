@@ -1,0 +1,1022 @@
+Dependencies for Project 'SIM7600', Target 'SIM7600': (DO NOT MODIFY !)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_tim.c)(0x5A0EAD45)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_tim.o --omf_browse sim7600\stm32f2xx_hal_tim.crf --depend sim7600\stm32f2xx_hal_tim.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_uart.c)(0x5A0EAD45)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_uart.o --omf_browse sim7600\stm32f2xx_hal_uart.crf --depend sim7600\stm32f2xx_hal_uart.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_tim_ex.c)(0x5A0EAD45)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_tim_ex.o --omf_browse sim7600\stm32f2xx_hal_tim_ex.crf --depend sim7600\stm32f2xx_hal_tim_ex.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_dma.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_dma.o --omf_browse sim7600\stm32f2xx_hal_dma.crf --depend sim7600\stm32f2xx_hal_dma.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_rcc.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_rcc.o --omf_browse sim7600\stm32f2xx_hal_rcc.crf --depend sim7600\stm32f2xx_hal_rcc.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_pwr_ex.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_pwr_ex.o --omf_browse sim7600\stm32f2xx_hal_pwr_ex.crf --depend sim7600\stm32f2xx_hal_pwr_ex.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_gpio.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_gpio.o --omf_browse sim7600\stm32f2xx_hal_gpio.crf --depend sim7600\stm32f2xx_hal_gpio.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_dma_ex.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_dma_ex.o --omf_browse sim7600\stm32f2xx_hal_dma_ex.crf --depend sim7600\stm32f2xx_hal_dma_ex.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_flash.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_flash.o --omf_browse sim7600\stm32f2xx_hal_flash.crf --depend sim7600\stm32f2xx_hal_flash.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal.o --omf_browse sim7600\stm32f2xx_hal.crf --depend sim7600\stm32f2xx_hal.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_cortex.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_cortex.o --omf_browse sim7600\stm32f2xx_hal_cortex.crf --depend sim7600\stm32f2xx_hal_cortex.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_flash_ex.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_flash_ex.o --omf_browse sim7600\stm32f2xx_hal_flash_ex.crf --depend sim7600\stm32f2xx_hal_flash_ex.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_rcc_ex.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_rcc_ex.o --omf_browse sim7600\stm32f2xx_hal_rcc_ex.crf --depend sim7600\stm32f2xx_hal_rcc_ex.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_pwr.c)(0x5A0EAD44)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_pwr.o --omf_browse sim7600\stm32f2xx_hal_pwr.crf --depend sim7600\stm32f2xx_hal_pwr.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Drivers/STM32F2xx_HAL_Driver/Src/stm32f2xx_hal_spi.c)(0x5A0EAD45)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_spi.o --omf_browse sim7600\stm32f2xx_hal_spi.crf --depend sim7600\stm32f2xx_hal_spi.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Src/system_stm32f2xx.c)(0x5A264891)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\system_stm32f2xx.o --omf_browse sim7600\system_stm32f2xx.crf --depend sim7600\system_stm32f2xx.d)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Src/stm32f2xx_it.c)(0x5A28EE4F)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_it.o --omf_browse sim7600\stm32f2xx_it.crf --depend sim7600\stm32f2xx_it.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_it.h)(0x5A28BFFA)
+I (../Inc/usart.h)(0x5A2B5C00)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdbool.h)(0x55DB2B76)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\string.h)(0x55DB2B78)
+F (../Src/gpio.c)(0x5A28BFF9)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\gpio.o --omf_browse sim7600\gpio.crf --depend sim7600\gpio.d)
+I (../Inc/gpio.h)(0x5A28BFF9)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Src/main.c)(0x5A30C4EA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\main.o --omf_browse sim7600\main.crf --depend sim7600\main.d)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+I (../Inc/dma.h)(0x5A28BFF9)
+I (../Inc/spi.h)(0x5A28BFF9)
+I (../Inc/gpio.h)(0x5A28BFF9)
+I (../Inc/usart.h)(0x5A2B5C00)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdbool.h)(0x55DB2B76)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\string.h)(0x55DB2B78)
+I (..\contiki-3.0\core\sys\etimer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/timer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/clock.h)(0x5A2B4E31)
+I (..\contiki-3.0\core\sys\autostart.h)(0x55DA0C1A)
+I (../Inc/delay.h)(0x5A28DB7F)
+F (../Src/usart.c)(0x5A2C9445)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\usart.o --omf_browse sim7600\usart.crf --depend sim7600\usart.d)
+I (../Inc/usart.h)(0x5A2B5C00)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdbool.h)(0x55DB2B76)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\string.h)(0x55DB2B78)
+I (../Inc/gpio.h)(0x5A28BFF9)
+I (../Inc/dma.h)(0x5A28BFF9)
+F (../Src/stm32f2xx_hal_msp.c)(0x5A28BFFA)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stm32f2xx_hal_msp.o --omf_browse sim7600\stm32f2xx_hal_msp.crf --depend sim7600\stm32f2xx_hal_msp.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (..\Src\delay.c)(0x5A28F6E1)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\delay.o --omf_browse sim7600\delay.crf --depend sim7600\delay.d)
+I (../Inc/delay.h)(0x5A28DB7F)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Src/dma.c)(0x5A28BFF9)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\dma.o --omf_browse sim7600\dma.crf --depend sim7600\dma.d)
+I (../Inc/dma.h)(0x5A28BFF9)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+F (../Src/spi.c)(0x5A28BFF9)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\spi.o --omf_browse sim7600\spi.crf --depend sim7600\spi.d)
+I (../Inc/spi.h)(0x5A28BFF9)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+I (../Inc/gpio.h)(0x5A28BFF9)
+F (..\Src\sim7600.c)(0x5A30C3C3)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\sim7600.o --omf_browse sim7600\sim7600.crf --depend sim7600\sim7600.d)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (../Inc/usart.h)(0x5A2B5C00)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdbool.h)(0x55DB2B76)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\string.h)(0x55DB2B78)
+F (startup_stm32f207xx.s)(0x5A28BFFC)(--cpu Cortex-M3 -g --apcs=interwork --pd "__MICROLIB SETA 1"-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include--pd "__UVISION_VERSION SETA 518" --pd "_RTE_ SETA 1" --pd "STM32F207xx SETA 1"--list startup_stm32f207xx.lst --xref -o sim7600\startup_stm32f207xx.o --depend sim7600\startup_stm32f207xx.d)
+F (..\contiki-3.0\cpu\arm\stm32f103\clock.c)(0x5A2B4A01)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\clock.o --omf_browse sim7600\clock.crf --depend sim7600\clock.d)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal.h)(0x5A0EAD44)
+I (../Inc/stm32f2xx_hal_conf.h)(0x5A28BFFA)
+I (../Inc/main.h)(0x5A2A0251)
+I (../Inc/debug.h)(0x5A2511B5)
+I (..\contiki-3.0\core\sys\process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (../Inc/sim7600.h)(0x5A30A8E8)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_def.h)(0x5A0EAD44)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/stm32f207xx.h)(0x5A0EAD26)
+I (../Drivers/CMSIS/Include/core_cm3.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmInstr.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/cmsis_armcc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Include/core_cmFunc.h)(0x5A0EAD43)
+I (../Drivers/CMSIS/Device/ST/STM32F2xx/Include/system_stm32f2xx.h)(0x5A0EAD26)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy/stm32_hal_legacy.h)(0x5A0EAD44)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_rcc_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_gpio_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_dma_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_cortex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_flash_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_pwr_ex.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_spi.h)(0x5A0EAD44)
+I (../Drivers/STM32F2xx_HAL_Driver/Inc/stm32f2xx_hal_uart.h)(0x5A0EAD44)
+I (..\contiki-3.0\core\contiki.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-version.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-default-conf.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/autostart.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/timer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/clock.h)(0x5A2B4E31)
+I (..\contiki-3.0\core\sys/ctimer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/etimer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/rtimer.h)(0x599D8108)
+I (..\contiki-3.0\core\sys/procinit.h)(0x599D8B91)
+I (..\contiki-3.0\core\sys/loader.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/energest.h)(0x55DA0C1A)
+I (..\contiki-3.0\cpu\arm\stm32f103\debug-uart.h)(0x55DA0C1A)
+F (..\contiki-3.0\core\sys\autostart.c)(0x55DA0C1A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\autostart.o --omf_browse sim7600\autostart.crf --depend sim7600\autostart.d)
+I (..\contiki-3.0\core\sys/autostart.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+F (..\contiki-3.0\core\sys\process.c)(0x55DA0C1A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\process.o --omf_browse sim7600\process.crf --depend sim7600\process.d)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdio.h)(0x55DB2B76)
+I (..\contiki-3.0\core\sys/process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (..\contiki-3.0\core\sys/arg.h)(0x55DA0C1A)
+F (..\contiki-3.0\core\sys\rtimer.c)(0x55DA0C1A)()
+F (..\contiki-3.0\core\sys\timer.c)(0x55DA0C1A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\timer.o --omf_browse sim7600\timer.crf --depend sim7600\timer.d)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (..\contiki-3.0\core\sys/clock.h)(0x5A2B4E31)
+I (..\contiki-3.0\core\sys/timer.h)(0x55DA0C1A)
+F (..\contiki-3.0\core\sys\etimer.c)(0x55DA0C1A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\etimer.o --omf_browse sim7600\etimer.crf --depend sim7600\etimer.d)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (..\contiki-3.0\core\sys/etimer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/timer.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/clock.h)(0x5A2B4E31)
+I (..\contiki-3.0\core\sys/process.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/pt.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/lc-switch.h)(0x55DA0C1A)
+I (..\contiki-3.0\core\sys/cc.h)(0x55DA0C1A)
+F (..\contiki-3.0\core\sys\ctimer.c)(0x55DA0C1A)()
+F (..\contiki-3.0\core\sys\stimer.c)(0x55DA0C1A)(-c --cpu Cortex-M3 -D__MICROLIB -g -O3 --apcs=interwork --split_sections -I ../Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc -I ../Drivers/STM32F2xx_HAL_Driver/Inc/Legacy -I ../Drivers/CMSIS/Device/ST/STM32F2xx/Include -I ../Drivers/CMSIS/Include -I ..\contiki-3.0\cpu\arm\stm32f103 -I ..\contiki-3.0\core\sys -I ..\contiki-3.0\core -I ..\contiki-3.0\cpu\stm32w108 --C99-I C:\Users\NBI_Ysheng\Desktop\stm32l072\sim7600\SIM7600\SIM7600\MDK-ARM\RTE-I D:\mysaftware\keil_5.12\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include-I D:\mysaftware\keil_5.12\ARM\PACK\Keil\STM32F2xx_DFP\2.6.0\Drivers\CMSIS\Device\ST\STM32F2xx\Include-D__UVISION_VERSION="518" -D_RTE_ -DSTM32F207xx -DUSE_HAL_DRIVER -DSTM32F207xx-o sim7600\stimer.o --omf_browse sim7600\stimer.crf --depend sim7600\stimer.d)
+I (..\contiki-3.0\core\contiki-conf.h)(0x5A2B4E3A)
+I (D:\mysaftware\keil_5.12\ARM\ARMCC\include\stdint.h)(0x55DB2B80)
+I (..\contiki-3.0\core\sys/clock.h)(0x5A2B4E31)
+I (..\contiki-3.0\core\sys/stimer.h)(0x55DA0C1A)
+F (..\contiki-3.0\cpu\stm32w108\rtimer-arch.c)(0x55DA0C1A)()

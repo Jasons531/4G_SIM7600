@@ -1,0 +1,11 @@
+sim7600\etimer.o: ..\contiki-3.0\core\sys\etimer.c
+sim7600\etimer.o: ..\contiki-3.0\core\contiki-conf.h
+sim7600\etimer.o: D:\mysaftware\keil_5.12\ARM\ARMCC\Bin\..\include\stdint.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/etimer.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/timer.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/clock.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/process.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/pt.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/lc.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/lc-switch.h
+sim7600\etimer.o: ..\contiki-3.0\core\sys/cc.h
